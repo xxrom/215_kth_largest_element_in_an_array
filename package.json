@@ -1,0 +1,12 @@
+{
+  "name": "215_kth_largest_element_in_an_array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+,
+  "nodemonConfig": { "delay": "1" },
+  "scripts": 
+  {
+    "dev": "nodemon --exec python3 main.py ./main.py" 
+  }
+}
